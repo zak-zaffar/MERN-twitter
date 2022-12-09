@@ -1,8 +1,8 @@
-##MERN-SocialMedia Site
+# MERN-SocialMedia Site
 
 Complete React MERN Full Stack Social Media App
 
-#How to run the Project
+## How to run the Project
 
 run npm start inside the server directory
 
